@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-QA Tester con sólidos conocimientos en procesos de control de calidad del desarrollo de software.
+Apasionado por encontrar errores y poder prevenir problemas mayores, garantizando entregar productos de calidad que estén a la vanguardia.
 
 Habilidades:
 - Python
